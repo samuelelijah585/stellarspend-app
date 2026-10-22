@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-577-add-doc-to-components-dashboard",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-577-add-doc-to-components-dashboard": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-577-add-doc-to-components-dashboard",
+    "origin"
+  ]
+}
